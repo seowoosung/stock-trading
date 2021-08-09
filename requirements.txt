@@ -4,4 +4,4 @@ djangorestframework==3.9.4
 django-cors-headers==3.2.1
 drf-yasg==1.17.0
 python-dotenv==0.10.3
-pywin32==227
+pywin32==301
